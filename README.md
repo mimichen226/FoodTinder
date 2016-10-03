@@ -12,7 +12,7 @@ Members
 
 Running the Application
 ----------------------------
-Go into the folder static and double click on **index3.html**.
+Clone the repository and double click on **index3.html**.
 
 
 Original Food Tinder Repository
