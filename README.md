@@ -17,4 +17,4 @@ Clone the repository and double click on **index3.html**.
 
 Original Food Tinder Repository
 --------------------------------
-https://github.com/mimichen226/att_hack
+Link: https://github.com/mimichen226/att_hack
